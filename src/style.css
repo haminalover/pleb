@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 420px;
+  color: rgb(107, 62, 3);
+  text-decoration: underline;
+  font-style: italic;
+  margin: 30px 5px 15px 20px;
+  padding: 20px 10px 5px 0px;
+}
